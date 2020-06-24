@@ -1,6 +1,6 @@
 # CS 121: Search Engine Project
 
-This assignment's goal is to develop a a search engine from the ground up that is capable of handling tens of thousands of documents, under harsh operational constriants and having a query response time under 300ms.
+This assignment's goal is to develop a search engine from the ground up that is capable of handling tens of thousands of documents, under harsh operational constriants and having a query response time under 300ms.
 
 ## General specifications
 
