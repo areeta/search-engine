@@ -23,7 +23,7 @@ In order to run this program, run gui.py. In order to check if app is running, g
 
 ## Contributors
 
-[@areetaw](https://github.com/areetaw)
+[@areeta](https://github.com/areeta)
 
 [@kaeleylenard](https://github.com/kaeleylenard)
 
